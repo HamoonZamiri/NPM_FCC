@@ -3,8 +3,9 @@
 	"description": "First NPM Project",
 	"author": "Hamoon",
 	"keywords": ["freecodecamp"],
-	"version": "1.0",
+	"version": "1.2.0",
 	"dependencies": {
+		"moment": "~2.10.2",
 		"express": "^4.14.0"
 	},
 	"license": "MIT",
