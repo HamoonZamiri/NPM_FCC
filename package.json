@@ -3,6 +3,7 @@
 	"description": "First NPM Project",
 	"author": "Hamoon",
 	"keywords": ["freecodecamp"],
+	"version": "1.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
